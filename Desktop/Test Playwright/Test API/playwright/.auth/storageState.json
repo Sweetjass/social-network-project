@@ -1,0 +1,65 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.OpenIdConnect.Nonce.CfDJ8Hoz3BMkZTpFgDOYXWzqH7tkIQZ2YHrWPfbMg3jiUPDXdVgKz_W7P2w804wPHJYH5KTxdejWOSWaQtF_IZb2k1uEwhdVNGY3_Ew8N0R_hlapXwi8SAQDBPfMyltmCN9xfQabDI22E83NxhvihrkdwZbyKZ86jghmdOEI8e_9wBygMKgpWd8ibzFxTLsaOCwOX7-gvtWq4gUba6TGM5xlsjMZD4_W-_UOUDFjmTikPVi-5JOQ_LaOsOQfDawnR1_K1LPV_EcX3XGsNyQ7JEJ9Bpc",
+      "value": "N",
+      "domain": "asudd-rolemanager-apihub.dev.megapolis-it.pro",
+      "path": "/callback",
+      "expires": 1753647564.805684,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Correlation.aGypScmh9FUmAkOxUi2C9F5J4sTOsJFfkFCNpa5ptTk",
+      "value": "N",
+      "domain": "asudd-rolemanager-apihub.dev.megapolis-it.pro",
+      "path": "/callback",
+      "expires": 1753647564.80585,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Antiforgery.9TtSrW0hzOs",
+      "value": "CfDJ8Kx-jJMCmmZFjoAvD5ua-8H15dyKX9sSHKnQkYmlwW-VR3EBX2dBik4O7kbyKt4UA5Zdi09XM79zgx9lMdjR3QUxnE-Fyuv9NFcQEPch-3MqXalGiwAJSzjzBEEXROrvhioHOSAvywYlEVFcLwvAPMk",
+      "domain": "dev-auth.megapolis-it.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "idsrv.session",
+      "value": "80041B9FE51E4F35034423E2E7244895",
+      "domain": "dev-auth.megapolis-it.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Identity.Application",
+      "value": "CfDJ8Kx-jJMCmmZFjoAvD5ua-8H1MFG4Nuq38SAM5BX8EjGpUgCYQWEjl1WAy4yeSpVGeBRKlkd5tqFkxUcQFib3McgZHSSKOVxH-Fq1ko0OlMXA9KYz7YkQvtlFjjcqEVTBXtfVez_J6PTplLboljR_m-6lsL8hNep5EnMZwqMJDV1f3gYeONHtPBsWI6kvsWgqlqbYVZc6j31XwLvTk0khqthfVr7zl7a_xtXIJIyCqm3Hev13k_6BO6kZll1ql-wXbwtY2fH6xaG8ULuqZvcdt-4r3rvyl7p_fCFljct9nOOoltcdn6lLTvelUop5cpYpyw",
+      "domain": "dev-auth.megapolis-it.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Cookies",
+      "value": "CfDJ8Hoz3BMkZTpFgDOYXWzqH7sKGv-K6DBSZG5ksjOyjCUHZc1AP_bcl_rbPS4nUiuA7-KuV6bhgZySdx1bMb2Z5L4VXwff4ESnLbf5vduMp81hJFdTOsFsldmZUMlqwg0rfFUMKgCZtYkW6jgJPpLp6QYcRBOJCWevrXxjzV8T_j0K4gJ1ogaw4AKr-D-GEbugxTtMxwqP_WIiYIJUc-Br8c_cX3OdmN0hJ4OsaLZkRqHu70CmycedSkEkS6wdOl4UL0_7vuHaOH2aPxHl17TpJq1gN9LyFwfOr_T2ZAwFMuYCp4ZlQLgVOPhOxpwpmJ67uR95KK1XlM866VH2RHU8bOWUV1KP_vKwYwG5cRX3l-UhwCDBeQYjq_VhE-k8LWVfQ_hg1MYQovbWcDn1YTbSwf_xC2UY4TzTps6FlIwYJu3-F-qDCRLkkljdE06bt_Z6kiAhoSENI_oOR-1VrgUlkHDvneG2TsHh-pFzfvRr6zJxPvNodHSXcB5viFfLwQdvHkmaFMKjgVgNPguEeqciUGawuKDlcooMvz58GxudFGsOq2xVZKTQhFwGonk5p3BOiNYCi6pxEzFotxoXXc8pBNZQiCMWkdDsHyApn4eCK1pn55LrAt3mYwOywi95UkZKE3UswcdX2Xi10M7_-WwxMvXhSqm1XZQaDRZXNL9a-LK6937cFW8FcHM2Mq_oHHbX9KBFyTPKTi_BdXnwd9tQMU43JhhKcB9wQN6AY57zRDFXjhaxNNgMhOE_2_m0LKQmBFHp8L0KzBlfZxLehYzAONV0Xq_FbZMlm435HOYKao1b5YzIFgAJdVJnrR237YsvL_wO8S3tBx9r32BT5zl90RaKduS758HxajudA5-2vObSUuoaxol8Au3UDdR68nejVBQwirp52J7GM_qpb0PFl45X3dHyGqKiCvXFD5aIDrLASH5mTaY92nSrm1lRoyszI2AvjmJRGQIQyOPkkHs_06kO51LMhjUpmAgUTMJ_Wx6jW8rUXIcygnULIcwcJiUctACuQU9t3SUXwS6Ez-sV_vwzJN7uz0RJEwMbr5kZbDxthKRyjYOBclKAMGoOyZmqQJ0JLx-fN0gpmagZP5n5T3l4pkYiXNAEm0PmPvf2ysbPJ-GLy5rTdOh5f0pUg3xW65UpW2e24A46ILsADfRnoRty8boA_fQA1sQ9gamuT_Kyl0W2CIMXNQnxL7CnrZS5TTQlrVg-Ms7V7YkIyRYSrRfnMplXmI_A-mSdgmLgWAGLOCSxdNSTOshL-RfrLI3Wt3Ft2MtC_wMY_63Y80tj9amtPDtExKbmMZtAw5WqLbgXB4nU6yxO65smJ8GxPPAV_9ywdYuIrNLdruVKHzeRFvSG6wmgLx3tfOL2Uk3IyHxoJYjssPSvCzapM0wnQZ-zTHIL93ANkCtsQLW2bGreRPIu-NXuxBMPAsAAKrrSGDRan0R-Mt_HrdJ4RUIYdFiMDYsNpJERcXw0p2qgKTAJ8iOFdAItPDfT7ZgoAzvMCLwqWQ58sp5n8lP3GKq2JCUXJ0mbvg79FbwPUN6mdtaYnl2iq474n8-8GbZQgsWeWkjVowCtm_YAZ6UvUZVZXWvtdCwO8SVYwZkP0723gpW6AWqT2YQTeW_eO1FT6qpH18uSqnchnoriMEYcYSQqIhW2wcczwbYqhk5J88EGow2BH3FCyHr4HJRf1qcvB48kFrVwxKT1eFvhn1pAhM0n9A-Cvs11_shZ9Ex8yPrqn3LiMkqUiKy3nMOCKGsYnMIfsv19BeftET6RPYVizcvdFdnX00CP8HHz6LBp7MHZziBQ11a_1i1Di77zOgXjSVojgcAcX_8S3cNBF6d0zoxpXSQkHzyLRX2jLkPoF56TpoENM8oQOdigjp3x9M4KB8ZkyFOSiTL1b6tp5gAmdjme5a0SiM_x-qrwuCj1WmfKvtcetI1qIH_JRD04eIZEnTo-sngoKKaUxljwkVcU_94MKPlILJqT3on3fg4TsmWTfMr8dSrTIxro8PPvWhqMJXPItTCGdUJmFlYjlKn7f9S9q3mePtSrSlGiTPH_DbvXydgQQGslrjpuEeYVAqTgGj9lqPN4iX3zebExY-S73zsYjrVf0uCHgAVb2hdAP5g3eBUVVGHAKMalLxkDq_kpLUwGTa5q2Z1q0ynRSWhp2jCvCjSFQaaksTpd5rFru8-bPnkgJYe_OLCbVvN-E_F8H0H6wlhqQtTk3gQXqfP2nInTQQvMazi4J4L4r94g4fe2MdYaXI_bivnDS2-ezF7cnoScoJcJWuAVWeWm0mjMVjF83e_WyhPDZkqcp9FjDoPJpkEe-UG3uAGu4bnIlFSy9K50Mbwp6WHwhCU3_mqKfl3dGlIUgbsroQYDXOjJl1YGf872TIQpCTB21TqZLntcW4k1i2-p5tXn_k_tXQMNXbt9NAdVpRc3SmlKXrDdWZOtZLyP9_sszlSqEGwCY9X4o_fJYz_Cp_d_4DWA243zZfAu0VcCRqByPk6_QTQShmE3MDT_BYuqHjPGfrhIuR5teM6yCGclPlZRR2aegJG_C69iNFrbs_lUItB0sK3rNuk93w8z9dA9NwyoxVwDitQdRdReVRfl9lAHgYF9vF0EfQ-ln9Sq8LAkTSDfGQCXDm5lm0Alg0r4G0uhtLPI_1MBFHVrQardzHHCMOAI66czh-4Hk8mCMJVAWVjmxWc2JGX-zT3fuElttpzdH7jLc3NgZnpVDiiJlXAA3i4CWoZbtm8Upa8nzCR9rXOs-BD3yoRqt5VIQc8RD853IiJ5XOtS3tsCfzSe28HlrdT0x6n7-NPhQEakrWQIbFGTnL7vsuoy0y63nfQXrpkShAh6hZMRDGuVOTr-Hsf66hKz4XrdZB0i4_SSKmHIEF-rwIDoyNYMUipNjpNeohFAsprPNpXfiHWIjx-Y5Cc1ebkoz9QSfA_g4gZSpQ4CqL_42wyUbwBbkjivrzelMMy6YP1g8tXrP9zS1cRNQc8hH4IzonIqChYVtp06W12HRV1ujrHHP8KN_Ei7-xH03SGo73BwwrGgjkUIn81k17RyDeYZ87PaR_Uq9oVqj2EhIl7OE0gPj7jX2JdYSzJdf1vbIVZle53Dis2j4SEU3QoAkc3itlJICDszJHVMpAkA1R6vQNEw6LyIlsVRMc9Jc42CTrnF8J1xacD_sGV_mlRaJ8uZPWZJi-1Zv1cKhqcy7X8bg44frwlLThnBgfW_ze-cKD-lOoXsgjR1ahByLvElZqjsPUnO9lupvxtJFB-sCWcJfhtGrfpOxvkQ_2Wzpk5WLbT1ysOF5ECzFwLi",
+      "domain": "asudd-rolemanager-apihub.dev.megapolis-it.pro",
+      "path": "/",
+      "expires": 1753689867.506604,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
